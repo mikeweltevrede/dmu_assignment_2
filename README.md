@@ -4,5 +4,5 @@ Group 2:
 
 - Martijn Ketelaars
 - Robbie Reyerse
-- Rosalien Timmerhuis
+- Rosalien Timmerhuis hallo
 - Mike Weltevrede
